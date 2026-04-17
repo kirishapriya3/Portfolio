@@ -1,0 +1,6 @@
+/* App-level reset — all styles are in App.jsx inline styles */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
