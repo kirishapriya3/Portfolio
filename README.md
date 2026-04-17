@@ -49,12 +49,6 @@ src/
 
 ---
 
-## 📸 Screenshots
-
-> Add screenshots here after uploading images to your repo
-
----
-
 ## 🧑‍💻 Projects Included
 
 ### 🏨 StayMate (Hostel Management System)
