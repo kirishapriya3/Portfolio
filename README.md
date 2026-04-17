@@ -5,12 +5,6 @@ This portfolio showcases my projects, skills, and contact details with smooth an
 
 ---
 
-## 🚀 Live Demo
-
-🔗 https://darling-jelly-524929.netlify.app/
-
----
-
 ## 🛠️ Tech Stack
 
 * ⚛️ React.js
